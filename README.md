@@ -1,5 +1,4 @@
 # AnomalyLayout
-@[toc]
 **本文参考自**[Android不规则点击区域详解](https://www.cnblogs.com/vanezkw/p/3806360.html)
 **做了点击区域的优化**
 ## 1.原理
@@ -229,6 +228,7 @@ public class AnomalyLayout extends ConstraintLayout {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ## 4.效果预览
+![效果图](https://github.com/ahiwey/AnomalyLayout/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.gif)
 #### 1.正常点击效果
 左边布局
 #### 2.子控件跟随父布局的点击
